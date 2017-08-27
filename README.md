@@ -42,3 +42,6 @@ docker run -e "SPRING_PROFILES_ACTIVE=dev" -p 8080:8080 -t pravsingh/springboot-
 ## access the application API
 http://localhost:8080/health
 
+## Swagger
+http://localhost:8080/swagger-ui.html
+
