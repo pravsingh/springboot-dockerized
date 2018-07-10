@@ -39,6 +39,12 @@ docker run -p 8080:8080 -t pravsingh/springboot-dockerized
 ## run the app with specific profile
 docker run -e "SPRING_PROFILES_ACTIVE=dev" -p 8080:8080 -t pravsingh/springboot-dockerized
 
+# run the app using spring-boot-maven-plugin
+mvn spring-boot:run
+
+# runt the app using jar
+./start.sh
+
 ## access the application API
 http://localhost:8080/health
 
