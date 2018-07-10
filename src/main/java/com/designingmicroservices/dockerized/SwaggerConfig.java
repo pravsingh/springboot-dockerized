@@ -1,4 +1,4 @@
-package io.mockserver.dockerized;
+package com.designingmicroservices.dockerized;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

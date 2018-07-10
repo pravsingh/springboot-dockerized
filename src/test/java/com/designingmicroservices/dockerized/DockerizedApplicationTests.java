@@ -1,4 +1,4 @@
-package io.mockserver.dockerized;
+package com.designingmicroservices.dockerized;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

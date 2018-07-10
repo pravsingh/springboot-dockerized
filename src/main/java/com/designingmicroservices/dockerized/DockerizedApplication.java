@@ -1,4 +1,4 @@
-package io.mockserver.dockerized;
+package com.designingmicroservices.dockerized;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package io.mockserver.dockerized;
+package com.designingmicroservices.dockerized.controller;
 
 import java.util.concurrent.atomic.AtomicLong;
 

@@ -1,4 +1,4 @@
-package io.mockserver.dockerized;
+package com.designingmicroservices.dockerized.controller;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
